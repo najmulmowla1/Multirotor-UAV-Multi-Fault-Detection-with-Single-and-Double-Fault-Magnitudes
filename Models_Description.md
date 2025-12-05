@@ -1,14 +1,14 @@
 Please find the dataset here 
 
-============ Data availability ====================================================================================
+============ Data availability ==============================
 
 https://ieee-dataport.org/documents/multi-fault-dataset-multirotor-uavs-single-and-double-magnitude-faults
 
-============ Research Article  ===================================================================================
+============ Research Article  =============================
 
  Mowla, M.N., Asadi, D. & Sohel, F. Real-time fault detection in multirotor UAVs using lightweight deep learning and high-fidelity simulation data with single and double fault magnitudes. Complex Intell. Syst. (2025). https://doi.org/10.1007/s40747-025-02195-y
 
-====================================================================================================================
+============================================================
 
 # Multirotor UAV Multi-Fault Detection Using Lightweight Deep Learning with Single and Double Fault Magnitudes
 
